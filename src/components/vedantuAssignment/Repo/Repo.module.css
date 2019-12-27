@@ -1,0 +1,12 @@
+.Repo {
+  border-bottom: true;
+}
+
+.RepoFeatures {
+  display: inline;
+  margin: auto;
+  padding: 10px;
+}
+.RepoName {
+  color: blue;
+}

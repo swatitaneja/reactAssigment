@@ -20,3 +20,25 @@
 .App-link {
   color: #09d3ac;
 }
+
+.red {
+  color: red;
+}
+
+.bold {
+  font: bold;
+}
+
+.button {
+  background-color: green;
+        color: white;
+        font: inherit;
+  border: 1px solid blue;
+  padding: 8px;
+  cursor: pointer;
+}
+
+ .button:hover:  {
+    background-color: pink;
+          color: "black";
+}

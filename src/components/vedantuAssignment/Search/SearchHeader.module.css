@@ -1,0 +1,17 @@
+.SearchHeader {
+  border-top: black;
+
+  display: inline;
+  padding: 10px;
+  margin: 5px;
+}
+.SearchHeader input {
+  width: 50%;
+  display: inline;
+  padding: 10px;
+}
+
+.SearchHeader select {
+  display: inline;
+  padding: 7px;
+}

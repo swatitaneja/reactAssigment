@@ -1,0 +1,11 @@
+.RepoList {
+  display: inline;
+}
+
+.RepoList ul {
+  list-style-type: none;
+}
+
+.RepoList.li {
+  border-bottom: true;
+}

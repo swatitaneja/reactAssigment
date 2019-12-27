@@ -1,0 +1,19 @@
+.Header {
+}
+.Header li {
+  display: inline;
+  padding: 10px;
+}
+
+.Header ui {
+  border-bottom: true;
+}
+
+.Header li:hover {
+  font-weight: bold;
+}
+
+.Header li:clicked {
+  font-weight: bold;
+  border: 10px orange;
+}
